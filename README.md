@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-user-profile](modules/user-profile)
 - [screen-signup](screens/signup)
 - [screen-payment-subscriptions](screens/payment-subscription)
+- [screen-order-checkout](screens/order-checkout)
 
 # Getting started: Frontend
 

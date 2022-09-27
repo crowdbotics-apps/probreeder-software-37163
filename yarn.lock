@@ -1246,10 +1246,13 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
+"@screens/order-checkout@file:./screens/order-checkout/":
+  version "1.0.0"
+
 "@screens/order-complete@file:./screens/order-complete":
   version "1.0.0"
 
-"@screens/payment-subscription@file:./screens/payment-subscription/":
+"@screens/payment-subscription@file:./screens/payment-subscription":
   version "1.0.0"
 
 "@screens/signup@file:./screens/signup":
