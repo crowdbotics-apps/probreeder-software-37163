@@ -1243,7 +1243,10 @@
 "@screens/order-complete@file:./screens/order-complete":
   version "1.0.0"
 
-"@screens/user-address@file:./screens/user-address/":
+"@screens/user-address@file:./screens/user-address":
+  version "1.0.0"
+
+"@screens/user-subscribed@file:./screens/user-subscribed/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":

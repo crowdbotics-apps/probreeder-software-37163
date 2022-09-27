@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-login](modules/login)
 - [screen-order-complete](screens/order-complete)
 - [screen-user-address](screens/user-address)
+- [screen-user-subscribed](screens/user-subscribed)
 
 # Getting started: Frontend
 
