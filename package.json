@@ -18,6 +18,7 @@
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/order-complete": "file:./screens/order-complete/",
+    "@screens/user-address": "file:./screens/user-address/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",
